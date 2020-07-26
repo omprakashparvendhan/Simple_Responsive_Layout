@@ -15,21 +15,32 @@ p,h1,h2{
 
 }
 
+section > h2 {
+	position: absolute;
+	margin-top: 0px;
+	top: 0px;
+	right: 0px;
+	width: 200px;
+	text-align: center;
+}
+section > p{
+	padding-top: 50px
+
+}
 .alignment{
-	text-align: right;
-	background-color: yellow;
-	margin: 0px 0px 0px 340px;
+
+	background-color: red;
 
 }
 .alignment1{
-	text-align: right;
+
 	background-color: blue;
-	margin: 0px 0px 0px 340px;
+	margin: 0px 0px 0px 360px;
 
 }
 .alignment2{
-	text-align: right;
-	background-color: red;
+
+	background-color: cyan;
 	margin: 0px 0px 0px 340px;
 
 }
