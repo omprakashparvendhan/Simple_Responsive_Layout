@@ -29,30 +29,33 @@ section > p{
 }
 .alignment{
 
-	background-color: red;
+	background-color: #ADD8E6;
 
 }
 .alignment1{
 
-	background-color: blue;
+	background-color: #808080;
 	margin: 0px 0px 0px 360px;
 
 }
 .alignment2{
 
-	background-color: cyan;
+	background-color: #C0C0C0;
 	margin: 0px 0px 0px 340px;
 
 }
 
 #div1{
 	background-color: cyan;
+	padding:1%;
 }
 #div2{
-	background-color: red;
+	background-color: #F08080;
+	padding:1%;
 }
 #div3{
-	background-color: yellow;
+	background-color: #87CEEB;
+	padding: 1%;
 }
 /* ---------  <for small size screens like a mobile phone ---------------- */
 @media (max-width: 767px) {
